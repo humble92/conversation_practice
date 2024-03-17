@@ -16,7 +16,7 @@ headers = {"Authorization": f"Bearer {HF_HUB_TOKEN}"}
 
 
 def home():
-    st.title("AI dictionary on your fingertip")
+    st.title("AI-supported conversation practice on your fingertip")
     st.write('Expand your English skills with the help of AI. '
              'AI generates conversation scenarios to help you practice and provides you with useful expressions. '
              'Put close the AI tutor at your fingertip and jump up to the next leve. Have fun!')
