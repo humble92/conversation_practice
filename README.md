@@ -22,6 +22,8 @@ https://conversation-practice.streamlit.app/
 ### Examples
 
 1. Describe situation by image:
+![image](https://github.com/humble92/conversation_practice/assets/1191154/88300b03-f8a7-4b06-9fde-70c6c70dafdf)
 
 
 2. Describe situation by text:
+![image](https://github.com/humble92/conversation_practice/assets/1191154/37e722e7-0979-4abd-8b49-701ef445af65)
